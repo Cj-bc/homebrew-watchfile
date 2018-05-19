@@ -7,3 +7,4 @@ class Watchfile < Formula
     system "mv", "watchfile.sh", "watchfile"
     bin.install "watchfile"
   end
+end
